@@ -6,7 +6,7 @@
 <ul>
     <li>🌱 I’m currently learning <strong>Next.js</strong></li>
     <li>💬 Ask me about <strong>Web, Networking</strong></li>
-    <li>📫 How to reach me: <strong>voidnfc@gmail.com</strong></li>
+    <li>📫 Contact : <strong>voidnfc@gmail.com</strong></li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
