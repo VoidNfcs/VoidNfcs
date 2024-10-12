@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zaky</h1>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/736x/74/d0/5a/74d05a5fbad2a3164d3ce4f7809359fa.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=VoidNfcs&label=Profile%20views&color=0e75b6&style=flat" alt="VoidNfcs" /> </p>
+<p align="left"> ![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true)</p>
+
 
 <ul>
     <li>🌱 I’m currently learning <strong>Next.js</strong></li>
